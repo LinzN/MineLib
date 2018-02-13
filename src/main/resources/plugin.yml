@@ -1,0 +1,5 @@
+name: MineLib
+version: ${project.version}
+description: Library for my plugins
+author: Kekshaus
+main: de.linzn.mineLib.MineLibPlugin
