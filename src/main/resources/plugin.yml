@@ -3,3 +3,4 @@ version: ${project.version}
 description: Library for my plugins
 author: Kekshaus
 main: de.linzn.mineLib.MineLibPlugin
+api-version: 1.13
